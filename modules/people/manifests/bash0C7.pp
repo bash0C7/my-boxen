@@ -24,6 +24,12 @@ class people::bash0C7 {
     ]:
   }
 
+  package {
+    'GoogleJapaneseInput':
+      source => "http://dl.google.com/japanese-ime/latest/GoogleJapaneseInput.dmg",
+      provider => pkgdmg;
+  }
+
   $home     = "/Users/${::boxen_user}"
   $dotfiles = "${home}/.dotfiles"
 
