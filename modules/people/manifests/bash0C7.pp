@@ -12,6 +12,7 @@ class people::bash0C7 {
   include java
   include netbeans::php
   include limechat
+#  include php::5_4
 
   # https://github.com/boxen/puppet-keyremap4macbook
   include keyremap4macbook
