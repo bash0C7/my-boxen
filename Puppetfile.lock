@@ -163,6 +163,11 @@ GITHUBTARBALL
   specs:
     stdlib (4.1.0)
 
+GITHUBTARBALL
+  remote: samjsharpe/puppet-ohmyzsh
+  specs:
+    ohmyzsh (1.0.0)
+
 DEPENDENCIES
   boxen (= 3.3.4)
   chrome (= 1.1.2)
@@ -183,6 +188,7 @@ DEPENDENCIES
   netbeans (= 1.0.0)
   nginx (= 1.4.2)
   nodejs (= 3.3.0)
+  ohmyzsh (= 1.0.0)
   openssl (= 1.0.0)
   osx (= 2.0.0)
   phantomjs (= 2.1.0)

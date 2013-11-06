@@ -71,4 +71,5 @@ github "osx",    "2.0.0"
 github "java",    "1.1.0"
 github "limechat",    "1.2.0", :repo => "dieterdemeyer/puppet-limechat"
 #github "php", "1.1.4"
+github "ohmyzsh",    "1.0.0", :repo => "samjsharpe/puppet-ohmyzsh"
 
