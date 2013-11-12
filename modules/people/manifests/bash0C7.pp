@@ -14,6 +14,7 @@ class people::bash0C7 {
   include limechat
 #  include php::5_4
   include ohmyzsh
+  include mysql_workbench
 
   # https://github.com/boxen/puppet-keyremap4macbook
   include keyremap4macbook

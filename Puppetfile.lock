@@ -149,6 +149,11 @@ GITHUBTARBALL
     xquartz (1.1.0)
 
 GITHUBTARBALL
+  remote: cdburgess/puppet-mysql_workbench
+  specs:
+    mysql_workbench (1.0.0)
+
+GITHUBTARBALL
   remote: dieterdemeyer/puppet-limechat
   specs:
     limechat (1.2.0)
@@ -185,6 +190,7 @@ DEPENDENCIES
   java (= 1.1.0)
   keyremap4macbook (= 1.0.8)
   limechat (= 1.2.0)
+  mysql_workbench (= 1.0.0)
   netbeans (= 1.0.0)
   nginx (= 1.4.2)
   nodejs (= 3.3.0)
