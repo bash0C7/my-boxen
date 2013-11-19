@@ -1,4 +1,9 @@
 GITHUBTARBALL
+  remote: bash0C7/puppet-kobito
+  specs:
+    kobito (0.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-boxen
   specs:
     boxen (3.3.4)
@@ -189,6 +194,7 @@ DEPENDENCIES
   iterm2 (= 1.0.3)
   java (= 1.1.0)
   keyremap4macbook (= 1.0.8)
+  kobito (= 0.0.0)
   limechat (= 1.2.0)
   mysql_workbench (= 1.0.0)
   netbeans (= 1.0.0)

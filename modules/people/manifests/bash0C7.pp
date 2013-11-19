@@ -20,6 +20,8 @@ class people::bash0C7 {
   include keyremap4macbook
   include keyremap4macbook::login_item
 
+  include kobito
+
   # homebrew でインストールするもの
   package {
     [
