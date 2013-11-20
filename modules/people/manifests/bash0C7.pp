@@ -21,6 +21,7 @@ class people::bash0C7 {
   include keyremap4macbook::login_item
 
   include kobito
+  include csshx
 
   # homebrew でインストールするもの
   package {
